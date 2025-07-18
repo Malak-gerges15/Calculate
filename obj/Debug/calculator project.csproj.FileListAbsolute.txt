@@ -1,0 +1,8 @@
+D:\programming\OOP C# 16\calculator project\bin\Debug\calculator project.exe.config
+D:\programming\OOP C# 16\calculator project\bin\Debug\calculator project.exe
+D:\programming\OOP C# 16\calculator project\bin\Debug\calculator project.pdb
+D:\programming\OOP C# 16\calculator project\obj\Debug\calculator project.csproj.AssemblyReference.cache
+D:\programming\OOP C# 16\calculator project\obj\Debug\calculator project.csproj.SuggestedBindingRedirects.cache
+D:\programming\OOP C# 16\calculator project\obj\Debug\calculator project.csproj.CoreCompileInputs.cache
+D:\programming\OOP C# 16\calculator project\obj\Debug\calculator project.exe
+D:\programming\OOP C# 16\calculator project\obj\Debug\calculator project.pdb

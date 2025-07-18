@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\OOP C# 16\\calculator project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB860A9-1411-48F4-A162-1563414A5E5D}|calculator project.csproj|d:\\programming\\oop c# 16\\calculator project\\clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB860A9-1411-48F4-A162-1563414A5E5D}|calculator project.csproj|solutionrelative:clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB860A9-1411-48F4-A162-1563414A5E5D}|calculator project.csproj|D:\\programming\\OOP C# 16\\calculator project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB860A9-1411-48F4-A162-1563414A5E5D}|calculator project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCalculator.cs",
+              "DocumentMoniker": "D:\\programming\\OOP C# 16\\calculator project\\clsCalculator.cs",
+              "RelativeDocumentMoniker": "clsCalculator.cs",
+              "ToolTip": "D:\\programming\\OOP C# 16\\calculator project\\clsCalculator.cs",
+              "RelativeToolTip": "clsCalculator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:06:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\OOP C# 16\\calculator project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programming\\OOP C# 16\\calculator project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:05:42.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
